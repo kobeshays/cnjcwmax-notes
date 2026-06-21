@@ -1,2 +1,14 @@
 # cnjcwmax-notes
-HTML page archive and documentation
+
+静态页面归档仓库
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
